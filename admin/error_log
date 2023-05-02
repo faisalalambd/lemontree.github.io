@@ -1,0 +1,97 @@
+[11-Nov-2022 12:28:15 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[11-Nov-2022 12:28:18 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourResidence.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[11-Nov-2022 12:28:23 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[11-Nov-2022 12:28:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[11-Nov-2022 12:28:28 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourResidence.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[11-Nov-2022 12:28:30 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourGuest.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[11-Nov-2022 12:28:32 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/newsEvents.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[11-Nov-2022 12:28:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/gallery.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[12-Nov-2022 06:51:06 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[12-Nov-2022 06:51:08 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php:8
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php(8): mysqli_connect()
+#1 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourResidence.php(4): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/config.php on line 8
+[12-Nov-2022 07:04:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'srsomgcd_lemontree.ourResidence' doesn't exist in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourResidence.php:52
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourResidence.php(52): mysqli->query()
+#1 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourResidence.php on line 52
+[12-Nov-2022 07:04:32 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'srsomgcd_lemontree.bigBanner' doesn't exist in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php:52
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php(52): mysqli->query()
+#1 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php on line 52
+[12-Nov-2022 07:04:42 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'srsomgcd_lemontree.bigBanner' doesn't exist in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php:52
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php(52): mysqli->query()
+#1 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/bigBanner.php on line 52
+[12-Nov-2022 07:04:46 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'srsomgcd_lemontree.ourRooms' doesn't exist in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms.php:59
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms.php(59): mysqli->query()
+#1 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms.php on line 59
+[12-Nov-2022 07:05:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'srsomgcd_lemontree.ourRooms' doesn't exist in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms_store.php:33
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms_store.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms_store.php on line 33
+[12-Nov-2022 07:05:38 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'srsomgcd_lemontree.ourGuest' doesn't exist in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourGuest.php:59
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourGuest.php(59): mysqli->query()
+#1 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourGuest.php on line 59
+[12-Nov-2022 07:06:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'srsomgcd_lemontree.ourGuest' doesn't exist in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourGuest_store.php:33
+Stack trace:
+#0 /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourGuest_store.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourGuest_store.php on line 33
+[20-Nov-2022 00:09:30 America/New_York] PHP Warning:  Undefined array key "price" in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms_update.php on line 4
+[20-Nov-2022 00:09:50 America/New_York] PHP Warning:  Undefined array key "price" in /home/srsomgcd/lemontree.srsoftbd.xyz/admin/ourRooms_update.php on line 4
